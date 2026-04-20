@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased] - yyyy-mm-dd
+## [1.0.0] - 2026-04-20
 
 - Refactor: remove PM2-specific helper from runtime API; `isMaster` is now fully user-defined at instantiation.
 - Docs: make core documentation framework-agnostic and add dedicated guides for Express and NestJS.
