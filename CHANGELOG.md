@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.1] - 2026-04-21
+
+- Fix CI: align npm publish workflow with `node-hmac-auth` (tag-driven GitHub Actions publish path).
+- Fix CI: synchronize `package-lock.json` for deterministic `npm ci`.
+
 ## [1.0.0] - 2026-04-20
 
 - Refactor: remove PM2-specific helper from runtime API; `isMaster` is now fully user-defined at instantiation.
