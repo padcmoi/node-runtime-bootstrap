@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased] - yyyy-mm-dd
+## [1.0.3] - 2026-04-21
 
 - fix(registry): restore npm package visibility
 
